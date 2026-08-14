@@ -1,4 +1,4 @@
-# Determinants_of_Economic_Output_and_Development
+# Determinants of Economic Output and Development
 Data Science and Data Analytics Project examining the effect of demographic, institutional, and structural variables on GDP Per Capita (PPP) and HDI
 
 Firstly, this project uses OLS regressions and scikit-learn linear regression models to estimate the relationships between the independent variables and GDP Per Capita and HDI (using coefficient magnitudes)
